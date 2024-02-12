@@ -1,0 +1,9 @@
+{
+  "name": "Vscode Dark Plus Theme",
+  "version": "0.0.1",
+  "authors": [
+    "d1y <chenhonzhou@gmail.com>"
+  ],
+  "description": "Portable Vscode Dark Plus Theme",
+  "repository": "https://github.com/d1y/vscode_dark_plus.zed"
+}
